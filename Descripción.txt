@@ -1,1 +1,5 @@
 Crear una aplicación web para llevar el seguimiento de la Quiniela de Futbol entre amigos.
+
+¿Qué tecnología se les ocurre que se puede utilizar?
+
+**Cualquier duda déjenla aquí y la revisamos**
